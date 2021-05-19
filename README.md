@@ -1,4 +1,4 @@
-##cypress-starter 
+#cypress-starter 
 
 Prerequired : 
 1. npm & npx
