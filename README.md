@@ -11,4 +11,4 @@ How to Start?
 3. code your test in any text editor!
 
 Adding Reporter : 
-yarn add mocha@5.2.0 mochawesome mochawesome-merge
+"npm install mochawesome mochawesome-merge mochawesome-report-generator"
