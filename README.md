@@ -11,4 +11,5 @@ How to Start?
 3. code your test in any text editor!
 
 To be able to use Xpath : "npm install -D cypress-xpath"
+
 Adding Reporter : "npm install mochawesome mochawesome-merge mochawesome-report-generator"
