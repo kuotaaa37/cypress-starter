@@ -1,5 +1,7 @@
 {
     "reporter": "mochawesome",
+    "video": false,
+    "screenshotsFolder": "cypress/report/mochawesome-report/screenshots",
     "reporterOptions": {
         "reportDir": "cypress/report/mochawesome-report",
         "overwrite": false,

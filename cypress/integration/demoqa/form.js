@@ -23,5 +23,7 @@ describe('Testing some demoqa Form', () => {
             cy.contains("Panipat").click()
         })
         cy.xpath('//*[@id="submit"]').click()
+
+        cy.contains("Thanks for submitting the form").should("be.visible")
     })
 })
